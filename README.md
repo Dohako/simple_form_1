@@ -4,8 +4,8 @@ Practicing in forms part 1 (go + html)
 
 Index looks like:
 
-![Screenshot](test_images/index.png)
+![Screenshot](test_images/index.PNG)
 
 Processor looks like:
 
-![Screenshot](test_images/processor.png)
+![Screenshot](test_images/processor.PNG)
